@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mikaturner
 - 👀 I’m a human who takes on diverse challenges and explores random cool stuff like foraging, permaculture, coding, parkour, and environmental sustainability.
-- 🌱 I’m currently learning JavaScript and React and reviewing CSS and HTML.
+- 🌱 I’m currently learning Python, while taking a break for a bit from JavaScript and React.
 - 💞️ I’m looking to collaborate on helping do good in the world.
 - 📫 How to reach me: mika@mikaturner.com
 
